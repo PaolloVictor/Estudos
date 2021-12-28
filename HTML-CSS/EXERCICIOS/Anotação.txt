@@ -1,0 +1,20 @@
+    Anatomia de uma Caixa
+
+Altura:    height
+Largura:   width
+Borda:     border
+Espaço dentro da borda: padding
+Espaço por fora da borda: margin
+Contordo da borda: outline 
+
+
+HEADER = tag para cabesario
+
+NAV =tag para menu 
+
+MAIN:A tag MAIN tem uma única função semântica: definir o conteúdo 
+principal da página ou da aplicação. ...
+ Ele representa o conteúdo mais importante da página, 
+que está diretamente relacionado ao tópico central do documento ou a 
+funcionalidade principal de uma
+ 
